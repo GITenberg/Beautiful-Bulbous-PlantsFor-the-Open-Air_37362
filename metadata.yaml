@@ -1,0 +1,25 @@
+_repo: Beautiful-Bulbous-PlantsFor-the-Open-Air_37362
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37362-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Weathers, John
+    birthdate: 1867
+    gutenberg_agent_id: '38797'
+    url: http://www.gutenberg.org/2009/agents/38797
+description: ''
+gutenberg_issued: '2011-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bulbs (Plants)'
+- !lcc 'SB'
+title: Beautiful Bulbous Plants for the Open Air
+url: http://www.gutenberg.org/ebooks/37362
